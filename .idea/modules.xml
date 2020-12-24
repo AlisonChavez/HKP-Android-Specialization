@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/videoapp.iml" filepath="$PROJECT_DIR$/videoapp.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/HKP-Android-Specialization.iml" filepath="$PROJECT_DIR$/HKP-Android-Specialization.iml" />
+>>>>>>> 53c8074... changes
     </modules>
   </component>
 </project>

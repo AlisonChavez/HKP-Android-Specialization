@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90b43f29-cc2e-4547-972f-231afe39d3bd" name="Default Changelist" comment="" />
+    <list default="true" id="90b43f29-cc2e-4547-972f-231afe39d3bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HKP-Android-Specialization.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +16,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1m4v5S3QyJbU4f90L00w9LlqgIW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,7 +25,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day 3 - 4/VidCode" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/Day 3 - 4/VidCode" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -33,5 +41,35 @@
       <updated>1608765493206</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608767480973">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1608767480973" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1608768085204">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1608768085204" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1608768012096">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608768012096" />
+    <state x="507" y="284" key="Github.CreateGistDialog" timestamp="1608768024374">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="507" y="284" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1608768024374" />
+    <state x="515" y="262" key="Github.ShareDialog" timestamp="1608767844048">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="515" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1608767844048" />
+    <state x="321" y="125" key="MultipleFileMergeDialog" timestamp="1608768078570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="321" y="125" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1608768078570" />
+    <state x="408" y="152" key="git4idea.merge.GitMergeDialog" timestamp="1608768041530">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="408" y="152" key="git4idea.merge.GitMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1608768041530" />
   </component>
 </project>
